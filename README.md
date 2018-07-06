@@ -5,4 +5,6 @@ fields of cyber security and network administration. The book is intended to be 
 
 Thanks for stopping by and looking at my latest work in progress!  
 
-![BreakingAndEntering](https://www.behance.net/gallery/67362771/Breaking-Entering)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TTYlerDurden/Breaking_And_Entering/master/PrintedEdition.jpg">
+</p>
